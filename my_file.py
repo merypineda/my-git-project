@@ -11,3 +11,5 @@ def my_function():
     return 'hi'
 
 
+def my_function():
+    return 'hi'
